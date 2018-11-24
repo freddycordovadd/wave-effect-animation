@@ -69,3 +69,11 @@ body {
         transform: translate(160px, -60px);
     }
 }
+
+/* responsive design */
+
+@media screen and (max-width: 767px) {
+    .content {
+        font-size: 1.5rem;
+    }
+}
